@@ -21,4 +21,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          UTC_OFFSET: 9
+          UTC_OFFSET: 9 
