@@ -2,7 +2,9 @@
 
 - 👨 I’m **26** years old
 
-- 🗾 I'm from **Saitama** and living in **Osaka** 
+- 🗾 I'm from **Saitama** and living in **Osaka**
+
+- ❤ I like **Trip, Programming, Anime, MMA, Apex**
 
 - 📫 How to reach me **takikunxo@gmail.com**
 
