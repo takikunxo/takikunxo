@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kotaro Taki</h1>
 
-- 👨 I’m **26 years old**
+- 👨 I’m **26** years old
 
-- 🗾 I'm from **Saitama**
+- 🗾 I'm from **Saitama** and living in **Osaka** 
 
 - 📫 How to reach me **takikunxo@gmail.com**
 
