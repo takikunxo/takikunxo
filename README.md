@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **takikunxo@gmail.com**
 
-- 📄 Know about my [skillsheet](https://github.com/takikunxo/SkillSheet/blob/main/README.md)
+- 📄 Know about my [skillsheet](https://github.com/takikunxo/takikunxo/blob/main/SkillSheet.md)
 
 <h3 align="left">GitHub Profile Summary Cards</h3>
 
