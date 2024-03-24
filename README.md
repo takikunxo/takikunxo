@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kotaro Taki</h1>
 
-- 👨 I’m **26** years old
+- 👨 I’m **27** years old
 
 - 🗾 I'm from **Saitama** and living in **Osaka**
 
-- ❤ I like **Trip, Programming, Anime, MMA, Apex**
+- ❤ I love **Programming**
 
 - 📫 How to reach me **takikunxo@gmail.com**
 
