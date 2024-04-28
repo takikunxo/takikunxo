@@ -1,11 +1,11 @@
 ## ■ プログラミング言語
-- C#(8.0,10)
+- C#(8.0、10)
 - Go(1.2)
 - TypeScript(4.0)
 - C++(14.1)
 - Python(3系)
 - JavaScript(ES2022)
-- Java(8,12,18)
+- Java(8、12、18)
 
 
 ## ■ プラットフォーム
@@ -13,7 +13,7 @@
 長期間（5年以上）の開発経験がある。ソースコードの難読化、自動アップデート、ライセンスシステム、メモリの効率的な使用といったデスクトップアプリ特有の機能に関する理解と開発経験がある。
 |FW|レベル|
 | ---- | ---- |
-|  .NET（Console,WPF,Windows Forms,AvaloniaUI）  |  個人で中規模のアプリ（50K STEP）を開発してリリースした経験がある。  |
+|  .NET（Console、WPF、Windows Forms、AvaloniaUI）  |  個人で中規模のアプリ（50K STEP）を開発してリリースした経験がある。  |
 |  MFC  |  スーパーゼネコン向け設計システム（200K STEP）の開発した経験がある。  |
 |  Electron  |  個人で小規模のアプリを開発してリリースした経験がある。  |
 |  Tkinter  |  個人で小規模のアプリを開発してリリースした経験がある。  |
@@ -24,7 +24,7 @@
 |FW|レベル|
 | ---- | ---- |
 |  React Native  |  大阪万博向けのアプリを開発中。  |
-|  .NET（Xamarin,MAUI,Blazor Hybrid）  |  新型コロナウイルス接触確認アプリcocoaの改修経験がある。  |
+|  .NET（Xamarin、MAUI、Blazor Hybrid）  |  新型コロナウイルス接触確認アプリcocoaの改修経験がある。  |
 
 ### ウェブ⭐⭐
 短期間（1～2年）の開発経験がある。バックエンドとフロントエンドの基本的な知識と僅かな開発経験がある。
@@ -44,13 +44,12 @@
 ## ■ 開発プロセス・ツール
 |FW|レベル|
 | ---- | ---- |
-|  Cloud  | Azure,AWS,GCP,Alibaba,Firebase,Sakuraなどの主要なクラウドでのSDKとAPIの利用経験がある。AWSにおいては基本的な三層アーキテクチャやサーバーレスのアーキテクチャへの理解がある。  |
-|  DB  |  MySQL,SQLite,PostgreSQLの利用経験がある。目的の要件に応じた基本的なデータモデリングが可能である。クラスター化、非クラスター化インデックスを理解したインデックスの理解やSQLアンチパターンの理解がある。  |
-|  SCM  |  GitHubやVSSをチーム開発で利用した経験がある。  |
-|  Process  |  ウォーターフォール、アジャイル、DevOpsの理解がある。  |
-|  CDN  |  CloudFlareやAkamaiに関する知識と利用経験がある。  |
-|  E2E  |  Jest,Puppeteer,Selenium,Postmanの利用経験がある  |
-|  NoCode  |  WoocCommerce,Webflowを利用したECサイトの構築経験がある。  |
+|  Cloud  | Azure、AWS、GCP、Alibaba、Firebase、Sakuraなどの主要なクラウドサービスでのSDKとAPIの利用経験がある。AWSにおいては基本的な三層アーキテクチャやサーバーレスのアーキテクチャへの理解がある。  |
+|  DB  |  MySQL、SQLite、PostgreSQLの利用経験がある。目的の要件に応じた基本的なデータモデリングが可能である。クラスター化、非クラスター化インデックスを理解したインデックスの理解やSQLアンチパターンの理解がある。  |
+|  SCM  |  GitHub、VSS、Subversionをチーム開発で利用した経験がある。  |
+|  CDN  |  CloudFlare、Akamaiに関する知識と利用経験がある。  |
+|  E2E  |  Jest、Puppeteer、Selenium、Postmanの利用経験がある  |
+|  NoCode  |  WoocCommerce、Webflowを利用したECサイトの構築経験がある。  |
 |  Design | Figmaの利用経験がある。 Adobe Premium Pro でのカット、トランジション、ノーマライズといった基本的な動画作成の理解と経験がある。 |
 
 ## ■ 言語
