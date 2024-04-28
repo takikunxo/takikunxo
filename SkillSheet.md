@@ -45,7 +45,7 @@
 |FW|レベル|
 | ---- | ---- |
 |  Cloud  | Azure、AWS、GCP、Alibaba、Firebase、Sakuraなどの主要なクラウドサービスでのSDKとAPIの利用経験がある。AWSにおいては基本的な三層アーキテクチャやサーバーレスのアーキテクチャへの理解がある。  |
-|  DB  |  MySQL、SQLite、PostgreSQLの利用経験がある。目的の要件に応じた基本的なデータモデリングが可能である。クラスター化、非クラスター化インデックスを理解したインデックスの理解やSQLアンチパターンの理解がある。  |
+|  DB  |  MySQL、SQLite、PostgreSQLの利用経験がある。目的の要件に応じた基本的なデータモデリングが可能である。  |
 |  SCM  |  GitHub、VSS、Subversionをチーム開発で利用した経験がある。  |
 |  CDN  |  CloudFlare、Akamaiに関する知識と利用経験がある。  |
 |  E2E  |  Jest、Puppeteer、Selenium、Postmanの利用経験がある  |
